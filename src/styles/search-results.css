@@ -1,0 +1,21 @@
+p {
+  text-align: center;
+  font-size: xx-large;
+  text-decoration: underline;
+}
+
+.search-results {
+  display: grid;
+  margin-top: 25px;
+  grid-template-columns: auto auto auto;
+  justify-items: center;
+}
+
+.card-image {
+  display: flex;
+  max-width: 250px;
+  max-height: 250px;
+  border: 3px solid white;
+  border-radius: 12px;
+  margin-top: 50px;
+}

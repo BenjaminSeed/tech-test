@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Results-snapshot renders Search result without an actual result 1`] = `
+<DocumentFragment>
+  <p>
+    No Results
+  </p>
+</DocumentFragment>
+`;

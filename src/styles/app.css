@@ -1,0 +1,12 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  background-color: lightblue;
+}
+
+.nasa-logo {
+  margin: auto;
+  width: 500px;
+  height: 300px;
+  mix-blend-mode: multiply;
+}
