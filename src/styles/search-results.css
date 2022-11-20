@@ -1,7 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Press+Start+2P&display=swap');
 p {
   text-align: center;
-  font-size: xx-large;
-  text-decoration: underline;
+  font-size: x-large;
+  font-family: Nunito;
 }
 
 .search-results {
@@ -18,4 +19,13 @@ p {
   border: 3px solid white;
   border-radius: 12px;
   margin-top: 50px;
+}
+
+@media screen and (max-width: 480px) {
+  .search-results {
+    grid-template-columns: auto;
+    justify-items: center;
+    margin-left: auto;
+  }
+ 
 }

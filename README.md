@@ -24,8 +24,12 @@ This task should take approx 10 hours and it is at my discretion as to what styl
 + Run ```npm install```
 + Run ```npm start```
 
+### Images
+
+![Main Page](../tech-test/src/screenshots/mainPageImage.png)
+
 #### If I had more time
 
-+ Fix styling issues to make App mobile friendly
++ Fix styling issues to make App mobile friendly - current issues with alignment
 + Add routes
 + Improve testing
