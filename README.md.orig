@@ -26,7 +26,12 @@ This task should take approx 10 hours and it is at my discretion as to what styl
 
 ### Images
 
+<<<<<<< HEAD
 ![Main Page](/public/desktop.png)
+=======
+<img src="../src/screenshots/mainPageImage.png" width="400px" >
+>>>>>>> 7b747769cbf5f303662d5e68d3bc8fb72dbe42dd
+
 #### If I had more time
 
 + Fix styling issues to make App mobile friendly - current issues with alignment
