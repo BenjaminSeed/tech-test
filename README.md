@@ -26,7 +26,7 @@ This task should take approx 10 hours and it is at my discretion as to what styl
 
 ### Images
 
-<img src="/Users/benjaminseed/projects/tech-test/src/screenshots/mainPageImage.png" width="400px" >
+<img src="../src/screenshots/mainPageImage.png" width="400px" >
 
 #### If I had more time
 
