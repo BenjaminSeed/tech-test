@@ -26,7 +26,7 @@ This task should take approx 10 hours and it is at my discretion as to what styl
 
 ### Images
 
-![Main Page](../tech-test/src/screenshots/mainPageImage.png)
+![Main Page](/public/desktop.png)
 
 #### If I had more time
 
