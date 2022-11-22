@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Press+Start+2P&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Nunito&family=Press+Start+2P&display=swap");
 p {
   text-align: center;
   font-size: x-large;
@@ -27,5 +27,4 @@ p {
     justify-items: center;
     margin-left: auto;
   }
- 
 }

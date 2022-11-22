@@ -31,10 +31,9 @@
 
 @media screen and (max-width: 430px) {
   .search-btn {
-      font-size: 12px
+    font-size: 12px;
   }
   .searh-input {
     margin-left: auto;
   }
- 
 }
