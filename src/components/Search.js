@@ -31,5 +31,5 @@ const Search = ({ setSearchResults }) => {
 export default Search;
 
 Search.propTypes = {
-  setSearchResults: PropTypes.func, // (followed console error message) removed isRequired to allow test to pass
+  setSearchResults: PropTypes.func,
 };

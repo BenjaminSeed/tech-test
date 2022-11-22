@@ -29,6 +29,8 @@ This task should take approx 10 hours and it is at my discretion as to what styl
 ![Main Page](/public/desktop.png)
 #### If I had more time
 
-+ Fix styling issues to make App mobile friendly - current issues with alignment
++ Fix styling issues to make App mobile friendly with CSS - current issues with alignment
 + Add routes
-+ Improve testing
++ Improve testing / more tests
++ Work on CSS
++ spend more time working on Props
